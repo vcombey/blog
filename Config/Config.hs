@@ -1,10 +1,6 @@
 module Config where
 
-import IHP.Environment
-import IHP.EnvVar
 import IHP.FrameworkConfig
-import qualified IHP.Log as Log
-import IHP.Log.Types as LogTypes
 import IHP.Prelude
 
 
